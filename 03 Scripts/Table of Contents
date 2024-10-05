@@ -1,0 +1,16 @@
+### Table of Contents
+
+1. Import libraries and data
+2. Check data shape and structure
+3. Data Wrangling
+   - Drop columns
+   - Check for mixed data types
+5. Basic descriptive statistics
+6. Customer Retention Analysis by Dividing them on Exited = 1 and Non-exited = 0:
+   - Age (Exploratory viz)
+   - Balance (Exploratory viz)
+   - Tenure (Exploratory viz)
+   - Number of Products (Exploratory viz)
+   - If Active Member
+   - Credit Card Owner
+7. Key Risk Factors for Client Attrition and Recommendations.
